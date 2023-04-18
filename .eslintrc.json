@@ -1,3 +1,5 @@
+// ESLint configuration file
+// Enforces coding style
 {
   "extends": "eslint:recommended",
   "env": {
