@@ -1,2 +1,3 @@
 # discord-seaton
-A Discord bot in honor of Marlon Seaton
+
+A Discord bot in honor of Marlon Seaton's voice.
